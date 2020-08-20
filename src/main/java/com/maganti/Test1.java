@@ -12,7 +12,8 @@ public class Test1 {
 		nums.add(5);
 		nums.add(9);
 		nums.add(10);
-		nums.add(20);		
+		nums.add(20);
+		nums.add(30);
 		
 		for(int i:nums)
 		{
