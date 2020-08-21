@@ -15,6 +15,7 @@ public class Test1 {
 		nums.add(20);
 		nums.add(30);
 		nums.add(40);
+		nums.add(50);
 		
 		for(int i:nums)
 		{
