@@ -18,8 +18,9 @@ public class Test1 {
 		nums.add(40);
 		nums.add(50);
 		nums.add(60);
+        nums.add(70);
 		nums.add(75);
-		
+
 		sum = nums.stream().reduce((s1,s2) -> s1+s2);
 		
 		
